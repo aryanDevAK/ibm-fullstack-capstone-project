@@ -1,0 +1,54 @@
+/* Style for image placeholder */
+.image-placeholder-large {
+    /* Task 1 styling */
+    width:100%;
+    height: 400px;
+    background-color: aliceblue;
+    position: relative;
+}
+
+/* Style for product image */
+.product-image-large {
+    /* Task 2 styling */
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+
+}
+
+/* Style for 'no image available' placeholder */
+.no-image-available-large {
+    /* Task 3 styling */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    color: brown;
+    font-size: 18px;
+}
+
+/* Style for card header */
+.card-header {
+    /* Task 4 styling */
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style for details title */
+.details-title {
+    /* Task 5 styling */
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
+
+/* Style for comments section */
+.comments-section {
+    /* Task 6 styling */
+    margin: auto;
+    padding: 20px;
+    background-color: aqua;
+}
+
